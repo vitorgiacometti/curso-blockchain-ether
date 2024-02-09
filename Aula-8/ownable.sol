@@ -5,7 +5,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 */
 pragma solidity 0.8.19;
 
-@title Manages the contract owner
+//Manages the contract owner
 contract Ownable {
     address payable contractOwner;
 
